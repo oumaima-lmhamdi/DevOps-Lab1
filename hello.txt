@@ -1,2 +1,3 @@
 Hello from Scrum Master
 Hello from developper
+add necessqry chqnges after pull request
